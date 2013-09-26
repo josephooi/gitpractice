@@ -4,7 +4,7 @@
 
 main()
 {
-    printf("I love Computer Science.\n");
+    printf("Zach is probably gay.\n");
 
 }
 
