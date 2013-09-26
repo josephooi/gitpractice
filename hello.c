@@ -4,7 +4,6 @@
 
 main()
 {
-    printf("(.)(.) \n");
-
+    printf("I love Computer Science.\n");
 }
 
