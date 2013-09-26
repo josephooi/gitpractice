@@ -4,7 +4,7 @@
 
 main()
 {
-    printf("----c========3 \n");
+    printf("I love Computer Science.\n");
 
 }
 
